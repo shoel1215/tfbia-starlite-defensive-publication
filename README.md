@@ -1,6 +1,6 @@
 # Star LITE (TFBIA) — Defensive Publication
 
-**Defensive Publication Date:** July 22, 2026
+July 22, 2026
 
 This repository contains the defensive publication for **Star LITE** (Trusted Face Biometric Integration Appliance), a hardware-rooted edge terminal for live face biometric enrollment and issuance of cryptographically bound, revocable on-chain identity credentials.
 
