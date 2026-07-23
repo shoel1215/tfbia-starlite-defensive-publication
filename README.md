@@ -1,4 +1,4 @@
-# Star LITE (TFBIA) — Defensive Publication
+# Star LITE (TFBIA) 
 
 July 22, 2026
 
